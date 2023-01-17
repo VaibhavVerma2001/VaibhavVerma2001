@@ -52,7 +52,7 @@
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vaibhavverma2001&show_icons=true&locale=en&layout=compact" alt="vaibhavverma2001" /></p>
-<br>
+
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vaibhavverma2001&show_icons=true&locale=en" alt="vaibhavverma2001" /></p>
 
